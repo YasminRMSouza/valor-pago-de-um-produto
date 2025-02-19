@@ -8,6 +8,8 @@ Códigos da condição de pagamento:
 - À vista no Dinheiro ou PIX, receber 15% de desconto;
 - Em duas vezes, preço normal de etiqueta sem juros;
 - Acima de duas vezes, preço normal de etiqueta mais juros de 10%;
+
+Imprimir o resultado no console!
 */
 
 const prompt = require('prompt-sync')();
