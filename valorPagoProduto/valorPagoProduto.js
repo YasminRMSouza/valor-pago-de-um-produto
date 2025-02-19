@@ -11,6 +11,9 @@ Códigos da condição de pagamento:
 
 Imprimir o resultado no console!
 */
+console.log("------------------------------------------------------------------------------------------------------")
+console.log("--------------------------------Bem Vindo a Loja Dourado Cosméticos-----------------------------------")
+console.log("------------------------------------------------------------------------------------------------------")
 
 const prompt = require('prompt-sync')();
 
